@@ -3,9 +3,15 @@
 @import './components/bio';
 @import './components/header';
 @import './components/projectcards';
+@import './components/health';
+@import './components//music';
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
-  background-color: #fbe8a6;
+  background-image: linear-gradient( 350deg,  rgba(150,192,255,1) -20%, rgba(255,180,161,1) 110% );
   font-family: 'Special Elite', cursive;
   padding: 10px;
 }

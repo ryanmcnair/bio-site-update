@@ -1,11 +1,14 @@
+.dev-projects {
+    text-align: center;
+}
+
 #projectsPage {
     display: flex;
     flex-wrap: wrap;
 }
 
 .project-card {
-    // display: flex;
-    // flex-direction: row-reverse;
+    text-align: left;
     margin: 10px 35px;
     border: 2px solid #303c6c;
     background-color: #f4976c;
@@ -23,8 +26,8 @@
     background-size: cover;
     height: 400px;
     width: 100%;
-    border-left: 2px solid #303c6c;
-    margin: 0;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
   }
   
   .project-details {
