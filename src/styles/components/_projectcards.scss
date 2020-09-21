@@ -1,0 +1,39 @@
+#projectsPage {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project-card {
+    // display: flex;
+    // flex-direction: row-reverse;
+    margin: 10px 35px;
+    border: 2px solid #303c6c;
+    background-color: #f4976c;
+    border-radius: 5px;
+    box-shadow: 0 15px 30px 1px lightgrey;
+    overflow: hidden;
+    width: 45%;
+  }
+
+.project-card p {
+    width: 90%
+}
+  
+  .project-image {
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    border-left: 2px solid #303c6c;
+    margin: 0;
+  }
+  
+  .project-details {
+    width: 100%;
+    margin: auto 5% auto 5%;
+  }
+  
+  .project-details-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+  }

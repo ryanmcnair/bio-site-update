@@ -1,8 +1,8 @@
 import '../styles/main.scss';
+import projectcards from './components/projectcards';
 
 const init = () => {
-  $('#app').html('<h1>HELLO! You are up and running!</h1>');
-  console.log('YOU ARE UP AND RUNNING!');
+  projectcards.createProjectCard();
 };
 
 init();
