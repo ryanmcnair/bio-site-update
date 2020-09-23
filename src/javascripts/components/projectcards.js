@@ -1,5 +1,7 @@
 import project from '../helpers/data';
 
+// THIS PAGE BUILDS CARDS FROM THE ARRAY WITHIN DATA.JS
+
 const renderToDom = (divId, textToPrint) => {
   const selectedDiv = document.getElementById(divId);
   selectedDiv.innerHTML = textToPrint;
