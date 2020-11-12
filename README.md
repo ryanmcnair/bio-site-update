@@ -10,7 +10,7 @@ Personal bio site meant to showcase group and personal projects as well as the t
 - Sass
 - Webpack
 
-![Image](./src/assets/images/screencapture.png)
+![Image](./src/assets/images/screenshot.png)
 
 ## Link 
 
