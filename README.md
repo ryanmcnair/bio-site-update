@@ -14,4 +14,4 @@ Personal bio site meant to showcase group and personal projects as well as the t
 
 ## Link 
 
-[See the site here](https://ryanmcnairbio.netlify.app/)
+[See the site here](https://bio-site-1b4b9.web.app)
